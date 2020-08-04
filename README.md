@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue&show_icons=true)
+![ReverdOD github stats](https://github-readme-stats.vercel.app/api?username=ReverbOD&theme=vue&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReverbOD&layout=compact&theme=vue)](https://github.com/ReverbOD/github-readme-stats)
 <!--
 **ReverbOD/ReverbOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
