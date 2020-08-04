@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![ReverdOD github stats](https://github-readme-stats.vercel.app/api?username=ReverbOD&count_private=true&theme=vue&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReverbOD&layout=compact&theme=vue)](https://github.com/ReverbOD/github-readme-stats)
