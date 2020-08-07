@@ -13,13 +13,13 @@ const reverbOd = {
     technologies: {
         frontEnd: {
             js: ["VueJS", "ReactJS"],
-            css: ["bootstrap", "sass", "materialui", "bulma"]
+            css: ["Bootstrap", "Sass", "MaterialUI", "Bulma"]
         },
         backEnd: {
-            js: ["nodejs", "express"],
-            microsoft: ["c#"]
+            js: ["NodeJS", "Express"],
+            microsoft: ["C#"]
         },
-        databases: ["mongo", "MySql"],
+        databases: [ "MongoDB", "MySql"],
         misc: ["Webpack", "Socket.IO", "Photoshop", "Illustrator", "Xd"]
     },
     architecture: ["Progressive web applications", "Single page applications", "Website"],
