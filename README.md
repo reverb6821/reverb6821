@@ -1,10 +1,9 @@
 # :wave: Hello! I'm Giuseppe.
+
 <img src="gh-header-image.png"/>
 
 <p>
 </p>
-
-
 
 ```javascript
 const reverbOd = {
