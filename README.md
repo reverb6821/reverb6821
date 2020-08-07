@@ -24,7 +24,6 @@ const reverbOd = {
     },
     architecture: ["Progressive web applications", "Single page applications", "Website"],
     currentProject: "AquariumNext",
-    funFact: "Profanity is the most used language in programming"
 };
 ```
 
