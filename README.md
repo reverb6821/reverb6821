@@ -9,7 +9,7 @@
 const reverbOd = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "NodeJS", "C#", "ReactJS", "VueJS"],
-    askMeAbout: ["web dev", "tech", "app dev", "music"],
+    askMeAbout: ["web dev", "tech", "app dev", "music", "movie", "gaming"],
     technologies: {
         frontEnd: {
             js: ["VueJS", "ReactJS"],
