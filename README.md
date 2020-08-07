@@ -22,7 +22,7 @@ const reverbOd = {
         databases: ["mongo", "MySql"],
         misc: ["Webpack", "Socket.IO", "Photoshop", "Illustrator", "Xd"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications", "Website"],
     currentProject: "AquariumNext",
     funFact: "Profanity is the most used language in programming"
 };
