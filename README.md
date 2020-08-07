@@ -1,6 +1,6 @@
 # :wave: Hello! I'm Giuseppe.
 
-<img src="gh-header-image.png"/>
+<img src="https://github.com/ReverbOD/ReverbOD/blob/master/gh-header-image.png"/>
 
 <p>
 </p>
