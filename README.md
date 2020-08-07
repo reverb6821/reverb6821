@@ -20,7 +20,7 @@ const reverbOd = {
             microsoft: ["C#"]
         },
         databases: [ "MongoDB", "MySql"],
-        misc: ["Webpack", "Socket.IO", "Photoshop", "Illustrator", "Xd"]
+        misc: ["Webpack", "MVC", ".NET", "Photoshop", "Illustrator", "Xd"]
     },
     architecture: ["Progressive web applications", "Single page applications", "Website"],
     currentProject: "AquariumNext",
