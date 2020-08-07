@@ -1,5 +1,5 @@
 # :wave: Hello! I'm Giuseppe.
-<img src="gh-header-image.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+<img src="gh-header-image.png"/>
 
 <p>
 </p>
