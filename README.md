@@ -19,7 +19,6 @@ const reverbOd = {
             js: ["nodejs", "express"],
             microsoft: ["c#"]
         },
-        //devOps: ["AWS"],
         databases: ["mongo", "MySql"],
         misc: ["Webpack", "Socket.IO", "Photoshop", "Illustrator", "Xd"]
     },
