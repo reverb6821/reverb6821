@@ -13,7 +13,7 @@ const reverbOd = {
     technologies: {
         frontEnd: {
             js: ["VueJS", "ReactJS"],
-            css: ["Bootstrap", "Sass", "MaterialUI", "Bulma"]
+            css: ["Bootstrap", "Sass"]
         },
         backEnd: {
             js: ["NodeJS", "Express"],
