@@ -7,23 +7,23 @@
 
 ```javascript
 const reverbOd = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "NodeJS", "C#", "ReactJS", "VueJS"],
-    askMeAbout: ["web dev", "tech", "app dev", "music", "movie", "gaming"],
+    pronouns: 'He' | 'Him',
+    code: ['JavaScript', 'NodeJS', 'C#', 'ReactJS', 'VueJS'],
+    askMeAbout: ['web dev', 'tech', 'app dev', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
-            js: ["VueJS", "ReactJS"],
-            css: ["Bootstrap", "Sass"]
+            js: ['VueJS', 'ReactJS'],
+            css: ['Bootstrap', 'Sass']
         },
         backEnd: {
-            js: ["NodeJS", "Express"],
-            microsoft: ["C#"]
+            js: ['NodeJS', 'Express'],
+            microsoft: ['C#']
         },
-        databases: [ "MongoDB", "MySql"],
-        misc: ["Webpack", "MVC", ".NET", "Photoshop", "Illustrator", "Xd"]
+        databases: [ 'MongoDB', 'MySql'],
+        misc: ['Webpack', 'npm', 'MVC', '.NET', 'Photoshop', 'Illustrator', 'Xd']
     },
-    architecture: ["Progressive web applications", "Single page applications", "Website"],
-    currentProject: "AquariumNext",
+    architecture: ['Progressive web applications', 'Single page applications', 'Website'],
+    currentProject: 'AquariumNext',
 };
 ```
 
