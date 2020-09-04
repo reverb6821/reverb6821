@@ -8,7 +8,7 @@
 ```javascript
 const reverbOd = {
     pronouns: 'He' | 'Him',
-    code: ['JavaScript', 'NodeJS', 'C#', 'ReactJS', 'VueJS'],
+    code: ['JavaScript', 'NodeJS', 'ReactJS', 'VueJS'],
     askMeAbout: ['web dev', 'tech', 'app dev', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
@@ -17,10 +17,9 @@ const reverbOd = {
         },
         backEnd: {
             js: ['NodeJS', 'Express'],
-            microsoft: ['C#']
         },
         databases: [ 'MongoDB', 'MySql'],
-        misc: ['Webpack', 'npm', 'MVC', '.NET', 'Photoshop', 'Illustrator', 'Xd']
+        misc: ['Webpack', 'npm', 'MVC', 'Photoshop', 'Illustrator', 'Xd']
     },
     architecture: ['Progressive web applications', 'Single page applications', 'Website'],
     currentProject: 'AquariumNext',
