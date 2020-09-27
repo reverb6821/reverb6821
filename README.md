@@ -8,12 +8,12 @@
 ```javascript
 const reverbOd = {
     pronouns: 'He' | 'Him',
-    code: ['JavaScript', 'NodeJS', 'ReactJS', 'VueJS'],
+    code: ['JavaScript', 'NodeJS', 'ReactJS'],
     askMeAbout: ['web dev', 'tech', 'app dev', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
-            js: ['VueJS', 'ReactJS'],
-            css: ['Bootstrap', 'Sass']
+            js: ['jQuery', 'ReactJS'],
+            css: ['CSS', 'Bootstrap', 'Sass']
         },
         backEnd: {
             js: ['NodeJS', 'Express'],
