@@ -21,7 +21,7 @@ const reverbOd = {
         databases: [ 'MongoDB', 'MySql'],
         misc: ['Webpack', 'npm', 'MVC', 'Photoshop', 'Illustrator', 'Xd']
     },
-    architecture: ['Progressive web applications', 'Single page applications', 'Website'],
+    architecture: ['OOP', 'MVC', 'Single page applications', 'Website'],
     currentProject: 'AquariumNext',
 };
 ```
