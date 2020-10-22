@@ -26,13 +26,6 @@ const reverbOd = {
 };
 ```
 
- </p> 
-<div align ="center">
-<a href ="https://github-readme-stats">
-<img align ="center" src = "https://github-readme-stats.vercel.app/api?username=ReverbOD&count_private=true&theme=vue&show_icons=true&count_private=true">
-</a>
-</div>
-
 <!--
 **ReverbOD/ReverbOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
