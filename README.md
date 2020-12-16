@@ -8,21 +8,21 @@
 ```javascript
 const reverbOd = {
     pronouns: 'He' | 'Him',
-    code: ['JavaScript', 'NodeJS', 'PHP', 'ReactJS' ],
+    code: ['JavaScript', 'NodeJS', 'PHP'  ],
     askMeAbout: ['web dev', 'tech', 'app dev', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
-            js: ['jQuery', 'ReactJS'],
+            js: ['jQuery'],
             css: ['CSS', 'Bootstrap', 'Sass', 'Scss']
         },
         backEnd: {
             js: ['NodeJS', 'Express'],
-            php: ['Laravel']
+            php: ['PHP']
         },
-        databases: [ 'MongoDB', 'MySql'],
-        misc: ['Webpack', 'npm', 'MVC', 'Photoshop', 'Illustrator', 'Xd']
+        databases: ['MySql'],
+        misc: ['Webpack', 'npm', 'MVC', 'Photoshop', 'Illustrator', 'Figma']
     },
-    architecture: ['OOP', 'MVC', 'Single page applications', 'Website'],
+    architecture: ['OOP', 'MVC', 'Website'],
     currentProject: 'AquariumNext'
 };
 ```
