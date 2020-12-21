@@ -12,7 +12,7 @@ const reverbOd = {
     askMeAbout: ['web dev', 'tech', 'app dev', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
-            js: ['jQuery'],
+            js: ['jQuery', 'ES6'],
             css: ['CSS', 'Bootstrap', 'Sass', 'Scss']
         },
         backEnd: {
