@@ -20,7 +20,7 @@ const reverbOd = {
             php: ['PHP']
         },
         databases: ['MySql'],
-        misc: ['Webpack', 'npm', 'MVC', 'Photoshop', 'Illustrator', 'Figma']
+        misc: ['Webpack', 'npm', 'MVC', 'Photoshop', 'Illustrator']
     },
     architecture: ['OOP', 'MVC', 'Website'],
     currentProject: 'AquariumNext'
