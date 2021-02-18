@@ -26,11 +26,8 @@ const reverbOd = {
     currentProject: 'AquariumNext'
 };
 ```
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/reverb6821/reverb6821/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/reverb6821/reverb6821/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/reverb6821/reverb6821/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
-</p>
+
+
 <!--
 **ReverbOD/ReverbOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
