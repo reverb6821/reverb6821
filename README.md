@@ -8,16 +8,17 @@
 ```javascript
 const reverbOd = {
     pronouns: 'He' | 'Him',
-    code: ['JavaScript', 'NodeJS', 'PHP'  ],
+    code: ['JavaScript', 'NodeJS', 'PHP', 'Java'  ],
     askMeAbout: ['web dev', 'tech', 'app dev', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
-            js: ['jQuery', 'ES6'],
+            js: ['jQuery', 'ES6', 'VueJS'],
             css: ['CSS', 'Bootstrap', 'Sass', 'Scss']
         },
         backEnd: {
             js: ['NodeJS', 'Express'],
-            php: ['PHP']
+            php: ['Laravel'],
+            java: ['Spring - Boot']
         },
         databases: ['MySql'],
         misc: ['Webpack', 'npm', 'MVC', 'Photoshop', 'Illustrator']
