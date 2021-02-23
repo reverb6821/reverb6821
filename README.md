@@ -17,8 +17,8 @@ const reverbOd = {
         },
         backEnd: {
             js: ['NodeJS', 'Express'],
-            php: ['Laravel'],
-            java: ['Spring - Boot']
+            php: ['PHP'],
+            java: ['Spring-Boot']
         },
         databases: ['MySql'],
         misc: ['Webpack', 'npm', 'MVC', 'Photoshop', 'Illustrator']
