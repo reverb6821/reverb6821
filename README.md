@@ -8,11 +8,11 @@
 ```javascript
 const reverbOd = {
     pronouns: 'He' | 'Him',
-    code: ['JavaScript', 'NodeJS', 'PHP', 'Java'  ],
+    code: ['JavaScript', 'NodeJS', 'PHP', 'Java'],
     askMeAbout: ['web dev', 'tech', 'app dev', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
-            js: ['jQuery', 'ES6', 'VueJS'],
+            js: ['jQuery', 'ES6'],
             css: ['CSS', 'Bootstrap', 'Sass', 'Scss']
         },
         backEnd: {
