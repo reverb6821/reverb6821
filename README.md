@@ -6,7 +6,7 @@
 </p>
 
 ```javascript
-const reverbOd = {
+const reverb6821 = {
     pronouns: 'He' | 'Him',
     code: ['JavaScript', 'NodeJS', 'PHP', 'Java'],
     askMeAbout: ['web dev', 'tech', 'app dev', 'music', 'movie', 'gaming'],
