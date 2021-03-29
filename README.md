@@ -8,16 +8,15 @@
 ```javascript
 const reverb6821 = {
     pronouns: 'He' | 'Him',
-    code: ['JavaScript', 'NodeJS', 'PHP', 'Java'],
+    code: ['JavaScript', 'NodeJS', 'Java'],
     askMeAbout: ['web dev', 'tech', 'app dev', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
-            js: ['jQuery', 'ES6'],
+            js: ['jQuery', 'ES6', 'ReactJS'],
             css: ['CSS', 'Bootstrap', 'Sass', 'Scss']
         },
         backEnd: {
             js: ['NodeJS', 'Express'],
-            php: ['PHP'],
             java: ['Spring-Boot']
         },
         databases: ['MySql'],
