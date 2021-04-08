@@ -1,4 +1,4 @@
-# :wave: Hello! I'm Giuseppe.
+# :wave: {Hello World!}
 
 <img src="https://github.com/ReverbOD/ReverbOD/blob/master/gh-header-image.png"/>
 
