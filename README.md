@@ -17,12 +17,13 @@ const reverb6821 = {
         },
         backEnd: {
             js: ['Node.js', 'Express'],
-            java: ['Spring-Boot']
+            java: ['Spring-Boot'],
+            php: ['Symfony']
         },
         databases: ['MySql'],
         misc: ['Webpack', 'npm', 'Yarn', 'Photoshop', 'Illustrator']
     },
-    architecture: ['OOP', 'MVC', 'Website', 'REST', 'API'],
+    architecture: ['OOP', 'MVC', 'Website', 'REST', 'API', 'microservices'],
     currentProject: 'AquariumNext'
 };
 ```
