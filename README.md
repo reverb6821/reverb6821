@@ -12,7 +12,7 @@ const reverb6821 = {
     askMeAbout: ['web development', 'tech', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
-            js: ['jQuery', 'ES6', 'React.js'],
+            js: ['jQuery', 'ES6', 'React.js', 'Angular'],
             css: ['CSS', 'Bootstrap', 'Sass', 'Scss']
         },
         backEnd: {
