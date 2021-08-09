@@ -13,7 +13,7 @@ const reverb6821 = {
     technologies: {
         frontEnd: {
             js: ['jQuery', 'ES6', 'React.js', 'Angular'],
-            css: ['CSS', 'Bootstrap', 'Sass', 'Scss']
+            css: ['CSS', 'Bootstrap', 'Sass', 'Scss', 'Tailwind']
         },
         backEnd: {
             js: ['Node.js', 'Express'],
