@@ -8,7 +8,7 @@
 ```javascript
 const reverb6821 = {
     pronouns: 'He' | 'Him',
-    code: ['JavaScript', 'TypeScript', 'Java', 'PHP'],
+    code: ['JavaScript', 'TypeScript', 'PHP'],
     askMeAbout: ['web development', 'tech', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
@@ -17,7 +17,6 @@ const reverb6821 = {
         },
         backEnd: {
             js: ['Node.js', 'Express'],
-            java: ['Spring-Boot'],
             php: ['Symfony']
         },
         databases: ['MySql'],
