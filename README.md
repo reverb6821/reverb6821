@@ -22,7 +22,7 @@ const reverb6821 = {
         databases: ['MySql'],
         misc: ['Webpack', 'npm', 'Yarn', 'Photoshop', 'Illustrator']
     },
-    architecture: ['OOP', 'MVC', 'Website', 'REST', 'API', 'microservices'],
+    architecture: ['OOP', 'MVC', 'Website', 'REST', 'API'],
     currentProject: 'AquariumNext'
 };
 ```
