@@ -23,7 +23,7 @@ const reverb6821 = {
         misc: ['Webpack', 'npm', 'Yarn', 'Photoshop', 'Illustrator']
     },
     architecture: ['OOP', 'MVC', 'Website', 'REST', 'API'],
-    currentProject: 'AquariumNext'
+    currentProject: ['aquariumNext', 'Andromeda']
 };
 ```
 
