@@ -32,12 +32,13 @@ const reverb6821 = {
     currentProject: ['aquariumNext', 'Andromeda']
 };
 ```
+<p align="center">
 <a href="https://github.com/reverb6821/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverb6821&layout=compact&hide=css,html" />
 </a> <a href="https://github.com/reverb6821/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reverb6821&layout=compact" />
 </a>
-
+</p>
 
 <!--
 **ReverbOD/ReverbOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
