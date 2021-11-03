@@ -1,8 +1,6 @@
 # 
 
 <h2> :wave: {Hello World!}</h2>
-<p><em>Web Developer from <a href="http://www.unb.br">Italy</a>
-</em></p>
 <p align="center">
 <a href="https://reverb6821.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-reverb6821.github.io-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/gigliottigiuseppe/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-giuseppegigliotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)"></a>
