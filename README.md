@@ -34,14 +34,12 @@ const reverb6821 = {
     currentProject: ['aquariumNext', 'Andromeda']
 };
 ```
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/reverb6821/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverb6821&layout=compact&hide=css,html" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=reverb6821&layout=compact" />
+<a href="https://github.com/reverb6821/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reverb6821&layout=compact" />
 </a>
-
-
 
 
 <!--
