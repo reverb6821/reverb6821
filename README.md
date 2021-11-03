@@ -6,7 +6,6 @@
 <p align="center">
 <a href="https://reverb6821.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-reverb6821.github.io-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/gigliottigiuseppe/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-giuseppegigliotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)"></a>
-
 <a href="https://wakatime.com/@050278f0-d512-49a5-930c-95e2028c09be" target="_blank"><img alt="Stack Overflow" src="https://wakatime.com/badge/user/050278f0-d512-49a5-930c-95e2028c09be.svg"></a>
 </p>
 
