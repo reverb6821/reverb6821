@@ -1,6 +1,12 @@
-# :wave: {Hello World!}
+# 
 
-<img src="https://github.com/reverb6821/reverb6821/blob/master/gh-header-image1.png"/>
+<h2> :wave: {Hello World!}</h2>
+<p><em>Web Developer from <a href="http://www.unb.br">Italy</a>
+</em></p>
+
+[![Linkedin: Giuseppe Gigliotti](https://img.shields.io/badge/-giuseppegigliotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gigliottigiuseppe/)](https://www.linkedin.com/in/gigliottigiuseppe/)
+[![GitHub reverb6821](https://img.shields.io/github/followers/reverb6821?label=follow&style=social)](https://github.com/reverb6821)
+[![wakatime](https://wakatime.com/badge/user/050278f0-d512-49a5-930c-95e2028c09be.svg)](https://wakatime.com/@050278f0-d512-49a5-930c-95e2028c09be)
 
 <p>
 </p>
@@ -26,6 +32,9 @@ const reverb6821 = {
     currentProject: ['aquariumNext', 'Andromeda']
 };
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reverb6821&layout=compact)](https://github.com/reverb6821/github-readme-stats)
+
 
 
 <!--
