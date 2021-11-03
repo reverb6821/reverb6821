@@ -4,17 +4,14 @@
 <p><em>Web Developer from <a href="http://www.unb.br">Italy</a>
 </em></p>
 <p align="center">
-<a href="https://reverb6821.github.io" target="_blank"><img alt="Website" src="https://reverb6821.github.io"></a>
-<a href="https://www.linkedin.com/in/gigliottigiuseppe/" target="_blank"><img alt="LinkedIn" src="hhttps://img.shields.io/badge/-giuseppegigliotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)"></a>
+<a href="https://reverb6821.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-reverb6821.github.io-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/gigliottigiuseppe/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-giuseppegigliotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)"></a>
+
 <a href="https://wakatime.com/@050278f0-d512-49a5-930c-95e2028c09be" target="_blank"><img alt="Stack Overflow" src="https://wakatime.com/badge/user/050278f0-d512-49a5-930c-95e2028c09be.svg"></a>
 </p>
 
-
-[![Linkedin: Giuseppe Gigliotti](https://img.shields.io/badge/-giuseppegigliotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/gigliottigiuseppe/)
-[![GitHub reverb6821](https://img.shields.io/github/followers/reverb6821?label=follow&style=social)](https://github.com/reverb6821)
-[![wakatime](https://wakatime.com/badge/user/050278f0-d512-49a5-930c-95e2028c09be.svg)](https://wakatime.com/@050278f0-d512-49a5-930c-95e2028c09be)
-
-<p>
+<p align="center">
+    <a href="https://github.com/reverb6821" target="_blank"><img alt="Github" src="https://img.shields.io/github/followers/reverb6821?label=follow&style=social"></a> 
 </p>
 
 ```javascript
