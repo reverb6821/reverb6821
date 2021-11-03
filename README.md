@@ -34,8 +34,7 @@ const reverb6821 = {
 ```
 <a href="https://github.com/reverb6821/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverb6821&layout=compact&hide=css,html" />
-</a>
-<a href="https://github.com/reverb6821/convoychat">
+</a> <a href="https://github.com/reverb6821/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reverb6821&layout=compact" />
 </a>
 
