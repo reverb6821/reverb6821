@@ -14,12 +14,12 @@
 ```javascript
 const reverb6821 = {
     pronouns: 'He' | 'Him',
-    code: ['JavaScript', 'TypeScript', 'Java'],
+    code: ['JavaScript', 'Java'],
     askMeAbout: ['web development', 'tech', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
-            js: ['jQuery', 'ES6', 'React.js', 'Angular'],
-            css: ['CSS', 'Sass', 'Scss', 'Bootstrap', 'Tailwind', 'styled-components']
+            js: ['TypeScript', 'ES6', 'React.js', 'Angular'],
+            css: ['CSS', 'Sass', 'Bootstrap', 'Tailwind', 'styled-components']
         },
         backEnd: {
             js: ['Node.js', 'Express'],
