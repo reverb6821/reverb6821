@@ -33,11 +33,12 @@ const reverb6821 = {
 };
 ```
 <p align="center">
+<a>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=reverb6821&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
 <a href="https://github.com/reverb6821/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverb6821&layout=compact&hide=css,html" />
-</a> <a href="https://github.com/reverb6821/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reverb6821&layout=compact" />
-</a>
+</a> 
 </p>
 
 <!--
