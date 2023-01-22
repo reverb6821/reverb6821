@@ -19,17 +19,15 @@ const reverb6821 = {
     technologies: {
         frontEnd: {
             js: ['TypeScript', 'ES6', 'React.js', 'Angular'],
-            css: ['CSS', 'Sass', 'Bootstrap', 'Tailwind', 'styled-components']
+            css: ['CSS', 'Sass', 'Tailwind', 'styled-components']
         },
         backEnd: {
-            js: ['Node.js', 'Express'],
-            java: ['Spring-Boot']
+            js: ['Node.js', 'Express']
         },
-        databases: ['MySql'],
+        databases: ['MySql', 'Mariadb'],
         misc: ['Webpack', 'npm', 'Yarn', 'Photoshop', 'Illustrator']
     },
-    architecture: ['OOP', 'MVC', 'Website', 'REST', 'API'],
-    currentProject: ['aquariumNext', 'Andromeda']
+    architecture: ['OOP', 'MVC', 'Website', 'REST', 'API']
 };
 ```
 <p align="center">
