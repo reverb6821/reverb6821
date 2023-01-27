@@ -14,18 +14,18 @@
 ```javascript
 const reverb6821 = {
     pronouns: 'He' | 'Him',
-    code: ['JavaScript', 'Java'],
+    code: ['JavaScript'],
     askMeAbout: ['web development', 'tech', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
-            js: ['TypeScript', 'ES6', 'React.js', 'Angular'],
-            css: ['CSS', 'Sass', 'Tailwind', 'styled-components']
+            js: ['TypeScript', 'ES6', 'React.js'],
+            css: ['sass', 'TailwindCSS', 'styled-components']
         },
         backEnd: {
             js: ['Node.js', 'Express']
         },
         databases: ['MySql', 'Mariadb'],
-        misc: ['Webpack', 'npm', 'Yarn', 'Photoshop', 'Illustrator']
+        misc: ['Webpack', 'npm', 'Yarn', 'Pugjs', 'Photoshop']
     },
     architecture: ['OOP', 'MVC', 'Website', 'REST', 'API']
 };
