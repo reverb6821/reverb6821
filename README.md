@@ -19,7 +19,7 @@ const reverb6821 = {
     technologies: {
         frontEnd: {
             js: ['TypeScript', 'ES6', 'React.js'],
-            css: ['sass', 'TailwindCSS', 'MaterialUI', 'emotion']
+            css: ['sass', 'TailwindCSS', 'styled-components']
         },
         backEnd: {
             js: ['Node.js', 'Express']
