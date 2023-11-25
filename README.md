@@ -18,14 +18,14 @@ const reverb6821 = {
     askMeAbout: ['web development', 'tech', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
-            js: ['TypeScript', 'ES6', 'React.js'],
-            css: ['sass', 'TailwindCSS', 'styled-components']
+            js: ['TypeScript', 'ES6', 'React.js', 'Next.js'],
+            css: ['sass', 'TailwindCSS', 'MaterialUI']
         },
         backEnd: {
             js: ['Node.js', 'Express']
         },
         databases: ['MySql', 'Mariadb', 'sqlite'],
-        misc: ['Webpack', 'npm', 'Yarn', 'Pugjs']
+        misc: ['Webpack', 'npm', 'pnpm', 'Yarn', 'Pugjs']
     },
     architecture: ['OOP', 'MVC', 'Website', 'REST', 'API']
 };
