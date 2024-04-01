@@ -19,16 +19,17 @@ const reverb6821 = {
     technologies: {
         frontEnd: {
             js: ['TypeScript', 'ES6', 'React.js', 'Next.js'],
-            css: ['sass', 'TailwindCSS']
+            css: ['sass', 'TailwindCSS'],
+            store: ['redux toolkit', 'zustand']
         },
         backEnd: {
-            js: ['Node.js', 'Express']
+            js:'Express'
         },
         testing: {
             js: ['Jest', 'react-testing-library']
         },
         databases: ['MySql', 'Mariadb', 'sqlite'],
-        misc: ['Webpack', 'npm', 'pnpm', 'Yarn', 'Pugjs']
+        misc: ['Webpack', 'npm', 'pnpm', 'storybook']
     },
     architecture: ['OOP', 'MVC', 'Website', 'REST', 'API']
 };
