@@ -20,6 +20,7 @@ const reverb6821 = {
         frontEnd: {
             js: ['TypeScript', 'ES6', 'React.js', 'Next.js'],
             css: ['sass', 'TailwindCSS'],
+            library: ['shadcn', 'ChakraUI']
             store: ['redux toolkit', 'zustand']
         },
         backEnd: {
@@ -28,17 +29,12 @@ const reverb6821 = {
         testing: {
             js: ['Jest', 'react-testing-library']
         },
-        databases: ['MySql', 'Mariadb', 'sqlite'],
+        databases: ['Postgres', 'Mariadb'],
         misc: ['Webpack', 'npm', 'pnpm', 'storybook']
     },
     architecture: ['OOP', 'MVC', 'Website', 'REST', 'API']
 };
 ```
-<p align="center">
-<a>
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=reverb6821&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
-</p>
 
 <!--
 **ReverbOD/ReverbOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
