@@ -18,19 +18,19 @@ const reverb6821 = {
     askMeAbout: ['web development', 'tech', 'music', 'movie', 'gaming'],
     technologies: {
         frontEnd: {
-            js: ['TypeScript', 'ES6', 'React.js', 'Next.js'],
-            css: ['sass', 'TailwindCSS'],
-            library: ['shadcn', 'ChakraUI']
+            js: ['typeScript', 'es6', 'react.js', 'next.js'],
+            css: ['sass', 'tailwindCSS'],
+            library: ['shadcn', 'chakra-ui']
             store: ['redux toolkit', 'zustand']
         },
         backEnd: {
             js:'Express'
         },
         testing: {
-            js: ['Jest', 'react-testing-library']
+            js: ['Jest', 'vitest', 'react-testing-library']
         },
-        databases: ['Postgres', 'Mariadb'],
-        misc: ['Webpack', 'npm', 'pnpm', 'storybook']
+        databases: ['postgres', 'mariadb'],
+        misc: ['webpack', 'rollup', 'storybook', 'tanstack/react-query', 'tanstack/react-router']
     },
     architecture: ['OOP', 'MVC', 'Website', 'REST', 'API']
 };
