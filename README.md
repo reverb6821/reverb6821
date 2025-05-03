@@ -3,7 +3,8 @@
 <h2> :wave: {Hello World!}</h2>
 <p align="center">
 <a href="https://reverb6821.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-reverb6821.github.io-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/gigliottigiuseppe/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-giuseppegigliotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)"></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gigliottigiuseppe/)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@reverb6821)
 <a href="https://wakatime.com/@050278f0-d512-49a5-930c-95e2028c09be" target="_blank"><img alt="Stack Overflow" src="https://wakatime.com/badge/user/050278f0-d512-49a5-930c-95e2028c09be.svg"></a>
 </p>
 
@@ -20,7 +21,7 @@ const reverb6821 = {
         frontEnd: {
             js: ['typeScript', 'es6', 'react.js', 'next.js'],
             css: ['sass', 'tailwindCSS'],
-            library: ['shadcn', 'chakra-ui']
+            library: ['shadcn', 'chakra-ui'],
             store: ['redux toolkit', 'zustand']
         },
         backEnd: {
