@@ -1,3 +1,15 @@
+### Hello Worlds
+
+I use JavaScript frameworks and libraries for frontend development such as **React**, **Next.js**, **Angular**, and **Vue**.
+
+I have experience writing styles with **SCSS** following the **BEM** methodology, using utility classes with **Tailwind CSS**, and integrating UI libraries like **Chakra UI**, and **ShadCN** to create modern, accessible, and maintainable interfaces.
+
+I write automated tests to ensure code robustness, reliability, and maintainability, utilizing **Jest**, **Vitest**, and **React Testing Library** for unit tests and UI component testing.
+
+I also create documentation using tools like **Swagger** and **Storybook**.
+
+Additionally, I perform debugging and code optimization using browser developer tools and debuggers.
+
 <div align="center">
 <a href="https://reverb6821.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-reverb6821.github.io-blue?style=flat&logo=google-chrome"></a>
 
@@ -9,23 +21,9 @@
   <img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white" alt="LinkedIn Badge">
 </a>
 
+<a href="https://github.com/reverb6821" target="_blank"><img alt="Github" src="https://img.shields.io/github/followers/reverb6821?label=follow&style=social"></a> 
+
 </div>
-
-<p align="center">
-    <a href="https://github.com/reverb6821" target="_blank"><img alt="Github" src="https://img.shields.io/github/followers/reverb6821?label=follow&style=social"></a> 
-</p>
-
-### Frontend Development Skills
-
-I use JavaScript frameworks and libraries for frontend development such as **React**, **Next.js**, **Angular**, and **Vue**.
-
-I have experience writing styles with **SCSS** following the **BEM** methodology, using utility classes with **Tailwind CSS**, and integrating UI libraries like **Chakra UI**, and **ShadCN** to create modern, accessible, and maintainable interfaces.
-
-I write automated tests to ensure code robustness, reliability, and maintainability, utilizing **Jest**, **Vitest**, and **React Testing Library** for unit tests and UI component testing.
-
-I also create documentation using tools like **Swagger** and **Storybook**.
-
-Additionally, I perform debugging and code optimization using browser developer tools and debuggers.
 
 ```javascript
 const reverb6821 = {
