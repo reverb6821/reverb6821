@@ -1,4 +1,4 @@
-### Hello Worlds
+### Hello World
 
 I use JavaScript frameworks and libraries for frontend development such as **React**, **Next.js**, **Angular**, and **Vue**.
 
